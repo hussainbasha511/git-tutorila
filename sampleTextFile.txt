@@ -1,2 +1,3 @@
 this is the sample text file, text is okay
 saving the new changes in between stash
+Updating directly on remote repository
